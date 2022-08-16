@@ -1,5 +1,5 @@
 ## Browser Compatibility
-The current version of GBA.js is known to work in the following web browsers:
+The current version of JavascriptGBA is known to work in the following web browsers:
 
 * Safari 6.0 or newer
 * Chrome 22 or newer
